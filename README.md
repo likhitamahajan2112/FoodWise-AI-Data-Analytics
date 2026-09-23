@@ -1,7 +1,7 @@
 # Food Demand and Waste Prediction System (FoodWise AI)
 
 > **Academic Data Analytics & AI Project**  
-> **Student Name**: Likhita  
+> **Student Name**: Likhita Nitin Mahajan
 > **Domain**: Data Analytics & AI  
 > **Project Title**: Food Demand and Waste Prediction System  
 
